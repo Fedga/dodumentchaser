@@ -1,0 +1,6 @@
+{
+  "name": "DocumentChaser",
+  "description": "Client document collection and automated chasing platform for UK accountants and bookkeeping firms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
